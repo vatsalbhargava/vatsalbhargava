@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Vatsal Bhargava</h1>
 <h3 align="center">A curious software developer studying CS & Math @ Northwestern University</h3>
 
-- 🔭 I’m currently working on projects using Ember.js and SQL
+- 🔭 I’m currently working on projects using Ember.js, C# and SQL
 
 - 👯 I’m looking to collaborate on **NBA related projects**
   
